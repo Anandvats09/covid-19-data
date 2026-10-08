@@ -13,14 +13,17 @@ answer sheet. Open every page with the Read tool (for PDFs, read all pages). If 
 out of order, order them by question number.
 
 ## What to look for
-- Marks written by the examiner, usually in red/green ink, in the margin or next to each
-  answer: e.g. `3`, `2½`, `1/2`, `4/5`, circled numbers, ticks with numbers.
+- **Only numbers written in RED ink count.** The examiner marks in red; students write in
+  blue (or black). Ignore every blue/black number, even if it looks like a mark (question
+  numbers, working, answers, a student's own totals). If a number's colour is unclear
+  (faded, pink, dark red vs. black), list it under "Unclear items" instead of counting it.
+- Red marks appear in the margin or next to each answer: e.g. `3`, `2½`, `1/2`, `4/5`, circled numbers, ticks with numbers.
 - Sub-question marks (1a, 1b, ...) and any per-question totals the teacher wrote.
 - Deductions (`-1`, `-½`), crossed-out marks (use the corrected value, not the struck one).
 - Any total already written on the front page / cover box by the examiner.
 - The maximum marks per question if printed (e.g. `[5]`), to sanity-check that no awarded
   mark exceeds the maximum.
-- Ignore the student's own writing, question-paper numbers, and page numbers.
+- Ignore the student's own writing (blue/black ink), question-paper numbers, and page numbers.
 
 ## Procedure
 1. Go page by page and list every awarded mark with the question it belongs to.
